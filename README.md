@@ -12,7 +12,7 @@ A data format for "all the things", inspired by Datomic and the Semantic Web tha
 
 Tripl can be created and used from any language with a natural interpretation of JSON data.
 However, getting the most out of the implied graph structure of the data requires some tooling.
-(Thought not much! The first passable version of this tool was only 120 LOC!)
+(Though not much! The first passable version of this tool was only 120 LOC!)
 
 This repository contains a python library for working with this data programatically from python, as well as a command line tool for working with data from the shell.
 
